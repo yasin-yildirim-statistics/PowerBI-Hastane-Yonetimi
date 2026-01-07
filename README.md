@@ -1,9 +1,14 @@
-![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?logo=powerbi&logoColor=black)
+<!-- ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?logo=powerbi&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white) -->
 
 # 🏥 PowerBI Hastane Yönetimi Projesi
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 Bu proje, **YETGİM / Techcareer** bünyesinde alınan eğitim süreci sonunda geliştirilmiş, **Power BI odaklı** bir **Hastane Yönetimi ve Analiz** projesidir. Çalışmanın temel amacı; **PostgreSQL** üzerinde oluşturulan ilişkisel bir veritabanından alınan verilerin, **Power BI** kullanılarak anlamlı, dinamik ve karar destek odaklı raporlar hâline getirilmesidir.
 
